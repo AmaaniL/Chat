@@ -13,11 +13,13 @@ This is a Chat app made as an excercise.
 
 To deploy this project run
 
+backend:
+
 ```bash
   cd Chatserver
   mvn spring-boot run
 ```
-
+frontend:
 ```bash
   cd Chatclient
   npm run start
