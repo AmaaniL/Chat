@@ -11,13 +11,20 @@ This is a Chat app made as an excercise.
 
 ## Deployment
 
-To deploy this project run
+To deploy this project:
+
+
+```bash
+git clone https://github.com/AmaaniL/Chat.git
+```
+
+Then from the cloned folder run:
 
 backend:
 
 ```bash
   cd Chatserver
-  mvn spring-boot run
+  mvn spring-boot:run
 ```
 frontend:
 ```bash
