@@ -4,7 +4,7 @@
 This is a Chat app made as an excercise.
 ## Tech Stack
 
-**Client:** React, Tailwind, Javascript, CSS, HTML
+**Client:** Vite, React, Tailwind, Javascript, CSS, HTML
 
 **Server:** Java, WebSockets, STOMP
 
