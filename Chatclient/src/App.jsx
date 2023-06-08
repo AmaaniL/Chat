@@ -1,5 +1,4 @@
-import React from "react";
-import Chatroom from "./components/Chatroom";
+import Chatroom from "./components/Chatroom.jsx";
 
 export const App = () => {
   return <Chatroom />;
